@@ -1,0 +1,18 @@
+we are here to breakdown the project.....
+here are step by step structure to built this app
+
+1. first of all , we have to install react-router-dom , axios, infinite player 
+   we have option for remix iconc (we install that or cdn link).
+
+2. now we have to create a component folder inside the src folder..... inside the component folder we have to built the components of the project 
+here is the list of components
+{ HOME.JSX,
+
+
+}
+3. and we also create a folder inside the src folder , which name is templates .... inside the templates we create a {SideNva.jsx}
+4. the next step is to create a side nav {the code of side nav in side nav.jsx file you can see this}
+5. after complete the structure of side nav now we created a top nav .jsx in the templete folder...now we have side nav and top nav components in the templates and we add that in home .jsx
+ 20% width covered by the side nav and other 80% width are covered by the div which contains many thing but now we have top nav inside this
+ 
+ 
